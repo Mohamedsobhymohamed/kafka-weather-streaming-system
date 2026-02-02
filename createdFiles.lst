@@ -1,0 +1,4 @@
+com\example\weather\KafkaConsumerApp.class
+com\example\weather\RainingProcessor.class
+com\example\weather\WeatherStation.class
+com\example\weather\TestDBConnection.class
