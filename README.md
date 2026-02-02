@@ -87,8 +87,8 @@ JDBC_URL
 DB_USER
 
 DB_PASS
-
-▶️ How to Run
+---
+ ▶️ How to Run
 1. Start Kafka
 Make sure Zookeeper and Kafka brokers are running locally.
 
